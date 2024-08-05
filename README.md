@@ -14,30 +14,40 @@ Desenvolver o front-end de uma aplicação web que abrace a temática de heróis
   
 # 🖥️Tecnologias utilizadas:
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- Typescript <img align="center" alt="Gui-Typescript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+- NextJS <img align="center" alt="Gui-NextJS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+- React <img align="center" alt="Gui-React" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+- MUI <img align="center" alt="Gui-MUI" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg">
+- TailwindCSS <img align="center" alt="Gui-TailwindCSS" height="120" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg">
 
 # 🛠️ Como Utilizar:
 
 1. Clone o repositório para sua máquina utilizando o comando:
-  
-	`git clone git@github.com:athena272/desafio-frontend-guilherme.git`
-
-2. Abra um terminal na **pasta raiz do repositório** e execute o comando <code>npm run dev</code>
-
+```bash
+git clone git@github.com:athena272/desafio-frontend-guilherme.git
+```
+2. Abra um terminal na **pasta raiz do repositório** e execute o comando do seu gerenciador de pacotes
+#### para npm
+```bash
+npm run dev
+```
+#### para yarn
+```bash
+yarn dev
+```
+#### para pnpm
+```bash
+pnpm dev
+```
 3. Após isso, você poderá acessar o frontend da aplicação localmente através do localhost na porta 3000, no link: <link>http://localhost:3000</link>.
 
-4. A tela de login pedirá um usuário e senha, pode usar qualquer um a seu gosto
+4. A tela de login pedirá um usuário e senha, pode usar qualquer um a seu gosto. No exemplo da foto usei, athena272 e para senha 123
 
-
+![image](https://github.com/user-attachments/assets/f79981b4-fb84-4132-bb04-bf1cdca15762)
 
 # Deploy
 
-<link>https://desafio-frontend-guilherme.vercel.app/</link> (Há que permitir o conteúdo inseguro nas configurações do navegador para visualizar todo o conteúdo do site)
+<link>https://desafio-frontend-guilherme.vercel.app/</link> (Recomendo testar a aplicação em guia anônima)
 
 ## 📷 Preview:
 
