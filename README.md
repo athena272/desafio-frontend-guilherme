@@ -23,11 +23,22 @@ Desenvolver o front-end de uma aplicação web que abrace a temática de heróis
 # 🛠️ Como Utilizar:
 
 1. Clone o repositório para sua máquina utilizando o comando:
-  
-	`git clone git@github.com:athena272/desafio-frontend-guilherme.git`
-
-2. Abra um terminal na **pasta raiz do repositório** e execute o comando <code>npm run dev</code>
-
+```bash
+git clone git@github.com:athena272/desafio-frontend-guilherme.git
+```
+2. Abra um terminal na **pasta raiz do repositório** e execute o comando do seu gerenciador de pacotes
+#### para npm
+```bash
+npm run dev
+```
+#### para yarn
+```bash
+yarn dev
+```
+#### para pnpm
+```bash
+pnpm dev
+```
 3. Após isso, você poderá acessar o frontend da aplicação localmente através do localhost na porta 3000, no link: <link>http://localhost:3000</link>.
 
 4. A tela de login pedirá um usuário e senha, pode usar qualquer um a seu gosto. No exemplo da foto usei, athena272 e para senha 123
@@ -36,7 +47,7 @@ Desenvolver o front-end de uma aplicação web que abrace a temática de heróis
 
 # Deploy
 
-<link>https://desafio-frontend-guilherme.vercel.app/</link> (Há que permitir o conteúdo inseguro nas configurações do navegador para visualizar todo o conteúdo do site)
+<link>https://desafio-frontend-guilherme.vercel.app/</link> (Recomendo testar a aplicação em guia anônima)
 
 ## 📷 Preview:
 
