@@ -29,11 +29,11 @@ Desenvolver o front-end de uma aplicação web que abrace a temática de heróis
 git clone git@github.com:athena272/desafio-frontend-guilherme.git
 ```
 2. Abra um terminal na **pasta raiz do repositório** e execute o comando do seu gerenciador de pacotes
-#### para npm
+#### instalar pacotes
 ```bash
 npm install
 ```
-#### para npm
+#### rodar o projeto
 ```bash
 npm run dev
 ```
