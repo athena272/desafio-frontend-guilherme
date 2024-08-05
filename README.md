@@ -29,15 +29,11 @@ git clone git@github.com:athena272/desafio-frontend-guilherme.git
 2. Abra um terminal na **pasta raiz do repositório** e execute o comando do seu gerenciador de pacotes
 #### para npm
 ```bash
+npm install
+```
+#### para npm
+```bash
 npm run dev
-```
-#### para yarn
-```bash
-yarn dev
-```
-#### para pnpm
-```bash
-pnpm dev
 ```
 3. Após isso, você poderá acessar o frontend da aplicação localmente através do localhost na porta 3000, no link: <link>http://localhost:3000</link>.
 
