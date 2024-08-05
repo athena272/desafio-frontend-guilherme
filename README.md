@@ -18,7 +18,7 @@ Desenvolver o front-end de uma aplicação web que abrace a temática de heróis
 - NextJS <img align="center" alt="Gui-NextJS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
 - React <img align="center" alt="Gui-React" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 - MUI <img align="center" alt="Gui-MUI" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg">
-- TailwindCSS <img align="center" alt="Gui-TailwindCSS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg">
+- TailwindCSS <img align="center" alt="Gui-TailwindCSS" height="120" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg">
 
 # 🛠️ Como Utilizar:
 
