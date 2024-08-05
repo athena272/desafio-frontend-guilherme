@@ -1,5 +1,5 @@
 {
-  "name": "desafio-frontend-guilherme",
+  "name": "azapfy-challenge",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,7 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@emotion/cache": "10.0.29",
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
     "@fontsource/roboto": "^5.0.8",

@@ -16,7 +16,7 @@ function SelectedHeroCard({ hero, index, winnersPowerstats }: SelectedHeroCardPr
           <Stack>
             { Object.values(hero.powerstats).map((state, i) => (
               <Box
-                key={ i }
+                key={ hero.name + hero.id }
                 display="flex"
                 gap={ 2 }
                 alignItems="center"
@@ -45,7 +45,7 @@ function SelectedHeroCard({ hero, index, winnersPowerstats }: SelectedHeroCardPr
           <Stack>
             {Object.values(hero.powerstats).map((state, i) => (
               <Box
-                key={ i }
+                key={ hero.name + hero.id }
                 display="flex"
                 gap={ 2 }
                 alignItems="center"

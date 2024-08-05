@@ -57,7 +57,7 @@ function CombatModal() {
         <Stack direction="row" spacing={ { xs: 20, md: 30 } }>
           {selectedHeroes.map((hero, index) => (
             <SelectedHeroCard
-              key={ index }
+              key={ hero.id }
               hero={ hero }
               index={ index }
               winnersPowerstats={ winnersPowerstats }
