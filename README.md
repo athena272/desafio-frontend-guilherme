@@ -1,5 +1,7 @@
 # Desafio Azapfy
 
+## Link [para fazer login](https://desafio-frontend-guilherme.vercel.app/)
+## Link [direto para o dashboard](https://desafio-frontend-guilherme.vercel.app/dashboard)
 
 # 🎯Objetivo:
 
@@ -48,11 +50,7 @@ npm run dev
 ## 📷 Preview:
 
 #### Início
-![alt text](./public/previewImgs/tela1.png)
-
-#### Dashboard
-![alt text](./public/previewImgs/tela2.png)
-
-![alt text](./public/previewImgs/tela3.png)
 
 
+## Link [para fazer login](https://desafio-frontend-guilherme.vercel.app/)
+## Link [direto para o dashboard](https://desafio-frontend-guilherme.vercel.app/dashboard)
